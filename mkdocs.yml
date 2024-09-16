@@ -1,5 +1,12 @@
 site_name: elasticsearch Discovery "You Know, for Search!(inc)" (amongst other things)- Search and Deliver
 site_url: https://dirkduplooy.github.io/elasticsearch/
+
+nav:
+ - Home: index.md
+ - About: about.md
+ - 20240916153634-page2.md
+ - 20240916153634-page3.md
+
 theme:
   name: material
   features:
