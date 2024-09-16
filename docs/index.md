@@ -5,7 +5,7 @@ Material for MkDocs
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 Material for MkDocs
-For full documentation visit [https://squidfunk.github.io/mkdocs-material/] (https://squidfunk.github.io/mkdocs-material/)
+For full documentation visit [https://squidfunk.github.io/mkdocs-material] (https://squidfunk.github.io/mkdocs-material/)
 
 #### Lessons learned and troubleshooting done while installing MKDocs
 --
