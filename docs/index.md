@@ -18,7 +18,7 @@ MkDocs on GitHub Pages in a step-by-step guide.
   [How to set up Material for MkDocs]: https://www.youtube.com/watch?v=Q-YA_dA8C20
 
 --
-The setup did not worked great until I had to update the main branch on Github Pages and the ci.yml workflow file did not trigger the creation of gh-pages for publication on the website under Github Pages 
+The setup did work great until I had to update the main branch on Github Pages and the ci.yml workflow file did not trigger the creation of gh-pages for publication on the website under Github Pages 
 #
 #
 #
