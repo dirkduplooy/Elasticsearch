@@ -1,8 +1,12 @@
 # Homepage
-
+This website was deployed by using MKDocs and Material for MkDocs
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+and Material for MkDocs
+For full documentation visit [https://squidfunk.github.io/mkdocs-material/] (https://squidfunk.github.io/mkdocs-material/)
+### Lessons learned and troubleshooting done while installing MKDocs
 
-## Code Annotation Examples
+### Previous coding work done in Team environment at Chingu https://chingu-voyage4.github.io/Toucans-Team-1/
+
 
 ### Codeblocks
 
